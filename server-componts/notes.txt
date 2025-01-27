@@ -1,0 +1,12 @@
+//Just need to use "use client" in any component which we want to use and the data of that will be available in client-side
+
+our default pages are "server side" only so in those oages we cant't use "useState",useEffect" ,"hooks" directly we have to make our page cliebt fisrt.
+
+to any component we cant deffrentiate them by giving them "use client" or not, which means we can use client side data on server side page also
+
+If you want to hide your code or read any code then you can also use "fs module" in server side by :->
+
+let a = fs.readFile(".gitignore")
+a.then(e=>{console.log(e.toString())})
+
+you cant't resolve "fs-promises" on "use client"
