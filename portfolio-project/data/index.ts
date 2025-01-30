@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "I prioritize client collaboration, fostering open communication ",
+      title: "I focus on creating scalable,high-performance websites with modern and intuitive designs🚀",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "I'm very flexible with time zone communications",
+      title: "Worked in TCS,Now exploring the Web World",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -72,68 +72,69 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
+      title: "Lazarev Web Clone",
+      des: "Experience the elegance of modern web design with this Lazarev.agency clone, built to replicate its sleek UI and smooth animations using React and TailwindCSS",
+      img: "/images/lazarev.png", // Replace with actual image
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://github.com/RahulCodeBase25/Learning-and-Implementing/tree/main/lazarev",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
+      title: "Horoscope Fun Page",
+      des: "Discover your zodiac insights with this interactive Horoscope Fun Page, built using HTML, CSS, and JavaScript.",
+      img: "/images/horoscope.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://github.com/RahulCodeBase25/Learning-and-Implementing/tree/main/horoscope-fun-page",
     },
     {
       id: 3,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
+      title: "Amazon Clone",
+      des: "Experience the look and feel of Amazon with this fully responsive clone, built using HTML, CSS, and JavaScript.",
+      img: "/images/amazon.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://github.com/RahulCodeBase25/Learning-and-Implementing/tree/main/Amazon%20Clone%20Project",
     },
     {
       id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
+      title: "Netflix Clone",
+      des: "Stream your favorite shows with this Netflix-inspired clone, built using HTML, CSS, and JavaScript...",
+      img: "/images/netflix.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "https://github.com/RahulCodeBase25/Learning-and-Implementing/tree/main/NETFLIX%20CLONE",
     },
-  ];
+];
+
   
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "I believe success comes through consistency, focus, and a willingness to keep learning.Every GitHub commit reflects my philosophy of continuous improvement, while my career showcases a balance of technical depth and creativity.Whether I am contributing to large-scale enterprise solutions or crafting dynamic user interfaces,my mission is clear: Build applications that make life easier while staying aligned with cutting-edge trends in development.Now,I am actively seeking opportunities and I aim to bring both technical expertise and fresh perspectives to any project,team or company.I am confident that my adaptability and work ethic will make me an asset to any forward-thinking organization",
+      name: "Rahul Singh",
+      title: "Mamba Mentality",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "I believe success comes through consistency, focus, and a willingness to keep learning.Every GitHub commit reflects my philosophy of continuous improvement, while my career showcases a balance of technical depth and creativity.Whether I am contributing to large-scale enterprise solutions or crafting dynamic user interfaces,my mission is clear: Build applications that make life easier while staying aligned with cutting-edge trends in development.Now,I am actively seeking opportunities and I aim to bring both technical expertise and fresh perspectives to any project,team or company.I am confident that my adaptability and work ethic will make me an asset to any forward-thinking organization",
+      name: "Rahul Singh",
+      title: "Mamba Mentality",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "I believe success comes through consistency, focus, and a willingness to keep learning.Every GitHub commit reflects my philosophy of continuous improvement, while my career showcases a balance of technical depth and creativity.Whether I am contributing to large-scale enterprise solutions or crafting dynamic user interfaces,my mission is clear: Build applications that make life easier while staying aligned with cutting-edge trends in development.Now,I am actively seeking opportunities and I aim to bring both technical expertise and fresh perspectives to any project,team or company.I am confident that my adaptability and work ethic will make me an asset to any forward-thinking organization",
+    name: "Rahul Singh",
+    title: "Mamba Mentality",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "I believe success comes through consistency, focus, and a willingness to keep learning.Every GitHub commit reflects my philosophy of continuous improvement, while my career showcases a balance of technical depth and creativity.Whether I am contributing to large-scale enterprise solutions or crafting dynamic user interfaces,my mission is clear: Build applications that make life easier while staying aligned with cutting-edge trends in development.Now,I am actively seeking opportunities and I aim to bring both technical expertise and fresh perspectives to any project,team or company.I am confident that my adaptability and work ethic will make me an asset to any forward-thinking organization",
+    name: "Rahul Singh",
+    title: "Mamba Mentality",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "I believe success comes through consistency, focus, and a willingness to keep learning.Every GitHub commit reflects my philosophy of continuous improvement, while my career showcases a balance of technical depth and creativity.Whether I am contributing to large-scale enterprise solutions or crafting dynamic user interfaces,my mission is clear: Build applications that make life easier while staying aligned with cutting-edge trends in development.Now,I am actively seeking opportunities and I aim to bring both technical expertise and fresh perspectives to any project,team or company.I am confident that my adaptability and work ethic will make me an asset to any forward-thinking organization",
+    name: "Rahul Singh",
+    title: "Mamba Mentality",
     },
   ];
   
@@ -173,33 +174,34 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "Full-Stack Developer Trainee",
+      desc: "Currently learning full-stack development, focusing on React, Node.js, MongoDB, and Express.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-      className: "md:col-span-2", // change to md:col-span-2
+      title: "Freelance Developer - Full-Stack Projects",
+      desc: "Developed a range of small-scale projects including a Netflix clone and a Todo list app using React and MongoDB.",
+      className: "md:col-span-2",
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-      className: "md:col-span-2", // change to md:col-span-2
+      title: "TCS - Software Engineer",
+      desc: "Worked on two key projects: the 'Tomcat Health Checker Browser App,' a tool to monitor server health, and 'IRRA,' a comprehensive solution for data analysis and reporting.",
+      className: "md:col-span-2",
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Personal Development Projects",
+      desc: "Created multiple projects showcasing skills in React, Next.js, and TailwindCSS to strengthen my full-stack development knowledge.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
   ];
+  
   
   export const socialMedia = [
     {

@@ -1,3 +1,6 @@
+"use client"
+
+
 import { cn } from "@/utils/cn";
 import { useState } from "react";
 import { IoCopyOutline } from "react-icons/io5";
@@ -50,8 +53,8 @@ export const BentoGrid = ({
     titleClassName?: string;
     spareImg?: string;
   }) => {
-    const leftLists = ["ReactJS", "Express", "Typescript"];
-    const rightLists = ["VueJS", "NuxtJS", "GraphQL"];
+    const leftLists = ["ReactJS", "Express", "Javacript"];
+    const rightLists = ["Java", "Mongo", "Tailwind"];
   
     const [copied, setCopied] = useState(false);
   
@@ -65,7 +68,7 @@ export const BentoGrid = ({
     };
   
     const handleCopy = () => {
-      const text = "hsu@jsmastery.pro";
+      const text = "Rahul.codecraft252gmail.com";
       navigator.clipboard.writeText(text);
       setCopied(true);
     };
